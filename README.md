@@ -1,9 +1,9 @@
   <h1 align="center">Hi 👋, I'm Joseph Donee Y. Cagampang</h1>
-<h3 align="center">A passionate frontend web developer from the Philippines that has knowledge in HTML/CSS/Javascript, React, Next.js, Tailwind CSS and other UI component libraries. Currently has experience building and enhancing web applications and have a range of knowledge in the frontend road. I am currently employed as a frontend web developer at DevSpace PH and at the same time working as a freelance web developer.</h3>
+<h3 align="center">A passionate frontend web developer from the Philippines that has knowledge in HTML/CSS/Javascript, Tailwind CSS/Bootstrap, React and Next.js. Currently has experience building web applications, creating/enhancing the UI/UX of a web application and have a range of knowledge in the frontend road. I am currently employed as a frontend web developer at DevSpace PH and at the same time working as a freelance web developer.</h3>
 
-- 📫 How to reach me **josephdonee.cagampang21@gmail.com**
+- 📫 If you need anything to be done or any inquiries, just contact me at **josephdonee.cagampang21@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can also connect with me in the following platforms:</h3>
 <p align="left">
 <a href="https://codepen.io/jsphdon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jsphdon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joseph-donee-cagampang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-donee-cagampang" height="30" width="40" /></a>
