@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Joseph Donee Y. Cagampang</h1>
-<h3 align="center">A passionate frontend web developer from the Philippines that has knowledge in HTML/CSS/Javascript, Tailwind CSS/Bootstrap, React and Next.js. Currently has experience building responsive web applications, creating/enhancing the UI/UX of a web application and have a range of knowledge in the frontend road. Currently I am working as a freelance web developer.</h3>
+<h3 align="center">A passionate frontend web developer from the Philippines that has knowledge in HTML/CSS/Javascript, Tailwind CSS/Bootstrap, React and Next.js. Currently has experience building responsive websites, creating/enhancing the UI/UX of a web application and have a range of knowledge in the frontend road. Currently I am working as a freelance web developer.</h3>
 
 - 📫 If you need anything to be done or any inquiries, just contact me at **josephdonee.cagampang21@gmail.com**
 
