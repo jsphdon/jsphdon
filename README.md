@@ -1,6 +1,12 @@
   <h1 align="center">Hi 👋, I'm Joseph Donee Y. Cagampang</h1>
 <h3 align="center">A passionate frontend web developer from the Philippines that has knowledge in HTML/CSS/Javascript, Tailwind CSS/Bootstrap, React and Next.js. Currently has experience building responsive websites, creating/enhancing the UI/UX of a web application and have a range of knowledge in the frontend road. Currently I am working as a freelance web developer.</h3>
 
+<h4>These are the projects that I've worked on in my freelancing</h4>
+- <a href="https://www.naniwa-r.co.jp/" target="blank">Office Naniwa Research Website</a>
+- <a href="https://simulation.mas-e.co.jp/" target="blank">MAS Co., Ltd. Website</a>
+- <a href="https://esuji-medical.com/" target="blank">Esuji Medical Website</a>
+- <a href="https://buddy-cars.com/" target="blank">Buddy Cars Website</a>
+
 - 📫 If you need anything to be done or any inquiries, just contact me at **josephdonee.cagampang21@gmail.com**
 
 <h3 align="left">You can also connect with me by the following platforms:</h3>
