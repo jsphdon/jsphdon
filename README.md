@@ -11,6 +11,9 @@
 
 - <a href="https://buddy-cars.com/" target="blank">Buddy Cars Website</a>
 
+
+- <a href="https://shiori-online.com/" target="blank">Shiori Website</a>
+
 - 📫 If you need anything to be done or any inquiries, just contact me at **josephdonee.cagampang21@gmail.com**
 
 <h3 align="left">You can also connect with me by the following platforms:</h3>
