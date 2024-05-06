@@ -20,7 +20,7 @@
 <h3 align="left">You can also connect with me by the following platforms:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/joseph-donee-cagampang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-donee-cagampang" height="30" width="40" /></a>
-<a href="https://instagram.com/jsph.don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsph.don" height="30" width="40" /></a>
+<a href="https://instagram.com/jsphdonee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsph.don" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and tools that I have used and currently using:</h3>
