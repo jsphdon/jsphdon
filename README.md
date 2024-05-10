@@ -3,15 +3,17 @@
 
 <h4>These are the projects that I've worked on in my freelancing</h4>
 
-- <a href="https://www.naniwa-r.co.jp/" target="blank">Office Naniwa Research Website</a>
-
 - <a href="https://simulation.mas-e.co.jp/" target="blank">MAS Co., Ltd. Website</a>
 
 - <a href="https://esuji-medical.com/" target="blank">Esuji Medical Website</a>
 
 - <a href="https://buddy-cars.com/" target="blank">Buddy Cars Website</a>
 
+- <a href="https://beauty-salon-haru.com/" target="blank">Beauty Salon ha_ru Website</a>
+ 
 - <a href="https://shiori-online.com/" target="blank">Shiori Website</a>
+
+- <a href="https://www.naniwa-r.co.jp/" target="blank">Office Naniwa Research Website</a>
 
 - <a href="https://hitatsu.co.jp" target="blank">Hitatsu Website</a>
 
