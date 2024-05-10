@@ -17,7 +17,7 @@
 
 - <a href="https://hitatsu.co.jp" target="blank">Hitatsu Website</a>
 
-- 📫 If you need anything to be done or any inquiries, just contact me at **josephdonee.cagampang21@gmail.com**
+📫 If you need anything to be done or any inquiries, just contact me at **josephdonee.cagampang21@gmail.com**
 
 <h3 align="left">You can also connect with me by the following platforms:</h3>
 <p align="left">
